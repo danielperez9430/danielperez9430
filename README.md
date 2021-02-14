@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=danielperez9430&show_icons=true&count_private=true&theme=dark))
+![Stats](https://github-readme-stats.vercel.app/api?username=danielperez9430&show_icons=true&count_private=true&theme=dark)
+
+- 🔭 I’m currently working on new personal proyects
+- 🌱 I’m currently learning PHP and NuxtJS
 
 <!--
 **danielperez9430/danielperez9430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
