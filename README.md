@@ -41,18 +41,6 @@ Full-stack developer passionate about building clean, performant web application
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielperez9430&show_icons=true&count_private=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielperez9430&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 *Portfolio & contact links coming soon — stay tuned!*
