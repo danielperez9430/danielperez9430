@@ -15,7 +15,7 @@
 Full-stack developer passionate about building clean, performant web applications. I enjoy turning ideas into polished products, from database design to pixel-perfect UIs. Currently diving deeper into the PHP and JavaScript ecosystems.
 
 - 🔭 Building new personal projects
-- 🌱 Learning **PHP** & **NuxtJS**
+- 🌱 Learning every day
 - 💡 I love working across the full stack — backend logic, APIs, and frontend experiences
 - 🎯 2026 goal: launch and ship more side projects
 
